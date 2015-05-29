@@ -1,0 +1,9 @@
+C:\Users\Josh\My Development\C# Projects\DeveloperTest\DeveloperTest\bin\Debug\DeveloperTest.exe.config
+C:\Users\Josh\My Development\C# Projects\DeveloperTest\DeveloperTest\bin\Debug\DeveloperTest.exe
+C:\Users\Josh\My Development\C# Projects\DeveloperTest\DeveloperTest\bin\Debug\DeveloperTest.pdb
+C:\Users\Josh\My Development\C# Projects\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.exe
+C:\Users\Josh\My Development\C# Projects\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.pdb
+C:\Users\Josh\My Development\C# Projects\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.csprojResolveAssemblyReference.cache
+C:\Users\Josh\My Development\C# Projects\DeveloperTest_Josh_Bacon\DeveloperTestProjectFiles\DeveloperTest\bin\Debug\DeveloperTest.exe.config
+C:\Users\Josh\My Development\C# Projects\DeveloperTest_Josh_Bacon\DeveloperTestProjectFiles\DeveloperTest\obj\Debug\DeveloperTest.exe
+C:\Users\Josh\My Development\C# Projects\DeveloperTest_Josh_Bacon\DeveloperTestProjectFiles\DeveloperTest\obj\Debug\DeveloperTest.pdb
