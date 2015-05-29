@@ -18,6 +18,27 @@ namespace DeveloperTest
             Console.WriteLine("C# Developer Test");
             Console.WriteLine("Program demonstrates the IncrementCode method");
             Console.WriteLine("Coded by Josh Bacon\n");
+            string test1 = "000002";
+            string test2 = "999999";
+            string test3 = "GL-321";
+            string test4 = "GL-999";
+            string test5 = "test12344test";
+            string test6 = "D001ED9999";
+            string result1 = IncrementCode(test1);
+            string result2 = IncrementCode(test2);
+            string result3 = IncrementCode(test3);
+            string result4 = IncrementCode(test4);
+            string result5 = IncrementCode(test5);
+            string result6 = IncrementCode(test6);
+
+            Console.WriteLine("Tested Examples..");
+            Console.WriteLine(test1 + " -> " + result1);
+            Console.WriteLine(test2 + " -> " + result2);
+            Console.WriteLine(test3 + " -> " + result3);
+            Console.WriteLine(test4 + " -> " + result4);
+            Console.WriteLine(test5 + " -> " + result5);
+            Console.WriteLine(test6 + " -> " + result6 +"\n");
+
             Console.WriteLine("Input 'q' to quit\n");
             bool continueTesting = true;
             while (continueTesting)
